@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bt2 {
+  width: 200px;
+  background: yellow;
+  padding: 5px;
+  margin: 5px;
+  border:  1px solid green;
+  display: inline-block;
+}
+
+.bt2 img{
+  width: 100%;
+  height: auto;
+}
+
+.note {
+  padding: 5px;
+  margin: 3px;
+  border: 3px solid green;
+  border-radius: 5px;
+  width: 150px;
+}
+
+.list_note {
+  width: 170px;
+  padding: 5px;
+  border: 1px solid blue;
+}
